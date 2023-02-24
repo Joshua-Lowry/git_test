@@ -1,0 +1,3 @@
+Hello world
+We are off on our first coding adventure!
+Following this, stay tuned for more awesome coding experiences!
